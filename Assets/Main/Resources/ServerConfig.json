@@ -1,0 +1,13 @@
+{
+    "CurrentEnvironment": "Development",
+    "Development": 
+    {
+        "IPAddress": "127.0.0.1",
+        "Port": "1234"
+    },
+    "Production": 
+    {
+        "IPAddress": "your_production_ip_address",
+        "Port": "1234"
+    }
+}
